@@ -82,6 +82,7 @@ The analysis focuses on understanding **revenue performance**, **customer behavi
 
 - **Dashboard Preview**
 
+<img width="1040" height="553" alt="GeeGee Retail store Dashboard" src="https://github.com/user-attachments/assets/dd9753e3-e93e-4789-a6cd-90b9193e724e" />
 
 ---
 
